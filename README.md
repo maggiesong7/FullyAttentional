@@ -3,7 +3,7 @@
 PyTorch code for FLANet (AAAI 2022).
 
 Fully Attentional Network for Semantic Segmentation  
-Qi Song, Jie Li, Chenghong Li  
+Qi Song, Jie Li, Chenghong Li and Hao Guo 
 AAAI, 2022  
 [[Paper](https://arxiv.org/pdf/2112.04108.pdf)]
 
