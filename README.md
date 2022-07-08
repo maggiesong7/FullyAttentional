@@ -18,11 +18,13 @@ pytorch==1.6.0
 If you found our method useful in your research, please consider citing
 
 ```
-@article{Song2022FullyAN,
-  title={Fully Attentional Network for Semantic Segmentation},
-  author={Qi Song and Jie Li and Chenghong Li and Hao Guo and Rui Huang},
-  journal={ArXiv},
-  year={2022},
-  volume={abs/2112.04108}
+@inproceedings{song2022fully,
+  title={Fully attentional network for semantic segmentation},
+  author={Song, Qi and Li, Jie and Li, Chenghong and Guo, Hao and Huang, Rui},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={36},
+  number={2},
+  pages={2280--2288},
+  year={2022}
 }
 ```
